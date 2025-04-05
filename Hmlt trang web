@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Trumsub78.pro - Dịch vụ tăng tương tác và SEO cho các nền tảng xã hội">
+    <meta name="author" content="Trumsub78">
+    <meta name="keywords" content="tăng tương tác, SEO, Facebook, Instagram, TikTok, Google, YouTube">
+    <title>Trumsub78.pro</title>
+    <link rel="stylesheet" href="style.css"> <!-- Liên kết tới CSS của bạn -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon"> <!-- Favicon -->
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="navbar-logo">Trumsub78</div>
+        <ul class="navbar-links">
+            <li><a href="#">Trang Chủ</a></li>
+            <li><a href="#">Dịch Vụ</a></li>
+            <li><a href="#">Hỗ Trợ</a></li>
+            <li><a href="#">Tài Khoản</a></li>
+        </ul>
+    </nav>
+
+    <!-- Banner -->
+    <section class="banner">
+        <h1>Chào mừng đến với Trumsub78.pro</h1>
+        <p>Chúng tôi cung cấp dịch vụ tăng tương tác và SEO cho các nền tảng mạng xã hội như Facebook, Instagram, TikTok, Google, và YouTube.</p>
+        <button class="cta-btn">Khám Phá Dịch Vụ</button>
+    </section>
+
+    <!-- Dịch Vụ -->
+    <section class="services">
+        <h2>Dịch Vụ Của Chúng Tôi</h2>
+        <div class="service-item">
+            <h3>Tăng Tương Tác Facebook</h3>
+            <p>Tăng like, comment, share cho Facebook.</p>
+        </div>
+        <div class="service-item">
+            <h3>Tăng Followers Instagram</h3>
+            <p>Giúp bạn tăng followers và tương tác trên Instagram.</p>
+        </div>
+        <div class="service-item">
+            <h3>SEO Google</h3>
+            <p>Dịch vụ SEO giúp nâng cao thứ hạng trên Google.</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-info">
+            <p>© 2025 Trumsub78.pro. Tất cả quyền được bảo lưu.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script> <!-- Liên kết tới các script JavaScript -->
+</body>
+</html>
